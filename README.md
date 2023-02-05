@@ -1,5 +1,5 @@
 # Database-Systems-I-Project
-# Dairy Farm Management System Database (Schema & Queries) on Microsoft SQL Studio
+### Dairy Farm Management System Database (Schema & Queries) on Microsoft SQL Studio
 
 A dairy farm sells milk and meat of different animals. Each animal has a unique tag number and a different species, i.e., cow, buffalo or sheep etc. These animals can either be bought or born in farm. Each animal is assigned a specific food group, they are fed according to the food groups. Admin will enter record of animal such as tag number, sex, kind, color, born date, calving date, parent tag number, food group and no. of treatments.
 The farm buys different types of forage, supplements, and medicines which are used for better development of animals. Each of these items have different types, a specific measuring unit and price which is associated to them. Price is calculated w.r.t unit of item. Food groups basically contains a mixture of ingredients (forage + supplements) in a specific unit ratio (weight).
